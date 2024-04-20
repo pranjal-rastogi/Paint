@@ -16,28 +16,6 @@ You can try out the app live [here](https://paint-pearl.vercel.app/).
 - Clear the canvas.
 - Save your artwork.
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/imarjunshrma/PaintApp.git
-   ```
-   
-2. Change into the project directory:
-    ```bash
-   cd react-paint-app
-    ```
-    
-3. Install the required dependencies:
-   ```bash
-   npm install
-    ```
-
-4. Start the development server:
-    ```bash
-    npm run dev
-    ```
 
 ## Usage
 
